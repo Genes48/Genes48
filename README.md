@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I´m Gastón Federico Cajal Skaf 👋
 
-<!--
-**Genes48/Genes48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Full Stack Developer
+- Industrial Engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["PostgreSQL"],
+   },
+   currently: ["Looking for a web developer job"],
+};
+```
+</br></br>
+
+<h3> 🤝🏻 Contact me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/gaston-cajal-skaf-fullstack" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@gaston-cajal-skaf-fullstack-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:gastoncajalskaf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gastoncajalskaf@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
